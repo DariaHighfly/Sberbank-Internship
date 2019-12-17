@@ -18,9 +18,21 @@ https://meetuper.ru
 Также доступно добавление опросов, различных материалов и ссылок.
 
 Вот несколько скринов о проделанной мной работе.
+<p float="left">
+<img src="https://github.com/DariaHighfly/Sberbank-Internship/blob/master/images/Сбер1.png" width="45%" height="45%">
+<img src="https://github.com/DariaHighfly/Sberbank-Internship/blob/master/images/Сбер2.png" width="45%" height="45%">
+</p>
 
-<img src="https://github.com/DariaHighfly/Sberbank-Internship/blob/master/images/Сбер1.png" width="50%" height="50%">
+<p float="left">
+<img src="https://github.com/DariaHighfly/Sberbank-Internship/blob/master/images/Сбер3.png" width="45%" height="45%">
+<img src="https://github.com/DariaHighfly/Sberbank-Internship/blob/master/images/Сбер4.png" width="45%" height="45%">
+</p>
 
-![Image 1 of app](https://github.com/DariaHighfly/Sberbank-Internship/blob/master/images/Сбер1.png)
+<p float="left">
+<img src="https://github.com/DariaHighfly/Sberbank-Internship/blob/master/images/Сбер5.png" width="45%" height="45%">
+<img src="https://github.com/DariaHighfly/Sberbank-Internship/blob/master/images/Сбер6.png" width="45%" height="45%">
+</p>
 
-![Image 2 of app](https://github.com/DariaHighfly/Sberbank-Internship/blob/master/images/Сбер2.png)
+<p align="center">
+<img src="https://github.com/DariaHighfly/Sberbank-Internship/blob/master/images/Сбер7.png" width="45%" height="45%">
+</p>
