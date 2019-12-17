@@ -19,4 +19,6 @@ https://meetuper.ru
 
 Вот несколько скринов о проделанной мной работе.
 
-![Image 1 of app](https://octodex.github.com/images/yaktocat.png)
+![Image 1 of app](https://github.com/DariaHighfly/Sberbank-Internship/blob/master/images/Сбер1.png)
+
+![Image 2 of app](https://github.com/DariaHighfly/Sberbank-Internship/blob/master/images/Сбер2.png)
