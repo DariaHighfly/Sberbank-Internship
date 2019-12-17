@@ -19,6 +19,8 @@ https://meetuper.ru
 
 Вот несколько скринов о проделанной мной работе.
 
-![Image 1 of app](https://github.com/DariaHighfly/Sberbank-Internship/blob/master/images/Сбер1.png){:height="50%" width="50%"}
+<img src="https://github.com/DariaHighfly/Sberbank-Internship/blob/master/images/Сбер1.png" width="50%" height="50%">
 
-![Image 2 of app](https://github.com/DariaHighfly/Sberbank-Internship/blob/master/images/Сбер2.png){:height="50%" width="50%"}
+![Image 1 of app](https://github.com/DariaHighfly/Sberbank-Internship/blob/master/images/Сбер1.png)
+
+![Image 2 of app](https://github.com/DariaHighfly/Sberbank-Internship/blob/master/images/Сбер2.png)
